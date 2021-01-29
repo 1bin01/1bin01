@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**1bin01/1bin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - #### BOJ (Baekjoon Online Judge)
+	- ##### handle : [wbcho0504](https://www.acmicpc.net/user/wbcho0504)
+      [![Solved.ac
+ 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wbcho0504)](https://solved.ac/wbcho0504)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ - #### Codeforces
+	- ##### handle : [1bin](https://codeforces.com/profile/1bin)
+      [![CodeForces Profile](http://cf.leed.at?id=1bin)](https://codeforces.com/profile/1bin)
+	 - ##### handle : [wonbin0504](https://codeforces.com/profile/wonbin0504)
+        [![CodeForces Profile](http://cf.leed.at?id=wonbin0504)](https://codeforces.com/profile/wonbin0504)
+
+ - #### Programmers
+
+
+------------
+### Introduction
+- Upload my solution of problems with explanation
+- Sourcecodes are classified by key algorithm
+- Some of them have more detail explanation on my blog
