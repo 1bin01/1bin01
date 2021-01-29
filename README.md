@@ -13,10 +13,3 @@
         [![CodeForces Profile](http://cf.leed.at?id=wonbin0504)](https://codeforces.com/profile/wonbin0504)
 
  - #### Programmers
-
-
-------------
-### Introduction
-- Upload my solution of problems with explanation
-- Sourcecodes are classified by key algorithm
-- Some of them have more detail explanation on my blog
