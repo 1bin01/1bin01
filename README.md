@@ -4,7 +4,7 @@
       [![Solved.ac
  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wbcho0504)](https://solved.ac/wbcho0504)
 
-<hr>
+---
 
  - ### Codeforces
 	- ##### handle : [1bin](https://codeforces.com/profile/1bin)
@@ -12,7 +12,7 @@
 	 - ##### handle : [wonbin0504](https://codeforces.com/profile/wonbin0504)
         [![CodeForces Profile](http://cf.leed.at?id=wonbin0504)](https://codeforces.com/profile/wonbin0504)
 
-<hr>
+---
 
  - ### Awards
 	- ##### team Terra(with [nant0313](https://github.com/nant0313), [minigimbob](https://www.acmicpc.net/user/minigimbob), 2020. 8 - 2021. 3)
