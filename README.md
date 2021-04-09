@@ -15,7 +15,7 @@
 <br>
 
  - ### Awards
-	- #### Team Terra(with [nant0313](https://github.com/nant0313), [minigimbob](https://www.acmicpc.net/user/minigimbob), 2020. 8 - 2021. 3)
+	- #### Team Terra(with [nant0313](https://github.com/nant0313), [minigimbob](https://github.com/minigb), 2020. 8 - 2021. 3)
 		- ##### 2020 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2020) Div.2　1위 (금상)
 		- ##### 2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2021 Winter)　4위 (동상)
 	- #### Personal Awards
