@@ -4,7 +4,6 @@
   * 🐧 member of Release (20. 10~)
   * 🎈 member of Sogang ICPC Team (20. 3~)
   * ⚾ Doosan Bears fan
-  * 🎾 tennis lover
 
 <br>
 
