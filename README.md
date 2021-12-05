@@ -15,7 +15,7 @@
 
   * Team no gum cant win(with gumgood, djs100201, 2021. 4 - 2021. 11)
 	* 2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2021) **1st place**🥇
-	* ICPC 2021 Seoul Regional **19st place**
+	* ICPC 2021 Seoul Regional **19th place**
 
   * Personal Awards
 	* 2020 서강대학교 프로그래밍 경진 대회(Sogang Programming Contest; SPC) Champion division　**2nd place**🥈
