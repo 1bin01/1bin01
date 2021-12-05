@@ -21,7 +21,7 @@
 	* 2020 서강대학교 프로그래밍 경진 대회(Sogang Programming Contest; SPC) Champion division　**2nd place**🥈
 	* 2021 ICPC Sinchon Winter Algorithm Camp Contest - 중급　**1st place**🥇
 	* 2021 ICPC Sinchon Summer Algorithm Camp Contest - 중급　**1st place**🥇
-	* SCPC(Samsung Colligiate Programming Contes) 2021 Finalist
+	* SCPC(Samsung Colligiate Programming Contest) 2021 Finalist
 
 <br>
 
