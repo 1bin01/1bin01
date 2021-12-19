@@ -6,6 +6,19 @@
   * ⚾ Doosan Bears fan
   * 🎾🎾
 
+
+<br>
+
+ ## 🏆 Awards
+   * **ICPC 2021 Seoul Regional 19th place** (no gum cant win)
+   * **SCPC(Samsung Colligiate Programming Contest) 2021 Finalist**     
+   * 2020 서강대학교 프로그래밍 경진 대회(Sogang Programming Contest; SPC) Champion division　**2nd place**🥈
+   * 2020 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2020) Div.2　**1st place**🥇
+   * 2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2021 Winter) **4th place**🥉
+   * 2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2021 Summer) **1st place**🥇 
+   * 2021 ICPC Sinchon Winter Algorithm Camp Contest - 중급　**1st place**🥇
+   * 2021 ICPC Sinchon Summer Algorithm Camp Contest - 중급　**1st place**🥇
+	
 <br>
 
  ## 💻 BOJ (Baekjoon Online Judge)
@@ -21,16 +34,3 @@
   * ##### handle : [wonbin0504](https://codeforces.com/profile/wonbin0504)
       [![CodeForces Profile](http://cf.leed.at?id=wonbin0504)](https://codeforces.com/profile/wonbin0504)
   
-
-<br>
-
- ## 🏆 Awards
- 	* ICPC 2021 Seoul Regional **19th place** (no gum cant win)
-	* SCPC(Samsung Colligiate Programming Contest) 2021 Finalist
-	
-	* 2020 서강대학교 프로그래밍 경진 대회(Sogang Programming Contest; SPC) Champion division　**2nd place**🥈
-	* 2020 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2020) Div.2　**1st place**🥇
-	* 2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2021 Winter) **4th place**🥉
-	* 2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2021 Summer) **1st place**🥇 
-	* 2021 ICPC Sinchon Winter Algorithm Camp Contest - 중급　**1st place**🥇
-	* 2021 ICPC Sinchon Summer Algorithm Camp Contest - 중급　**1st place**🥇
