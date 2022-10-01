@@ -14,7 +14,7 @@
      * 2021 ICPC Seoul Regional **19th place** (no gum cant win)
    * SCPC(Samsung Colligiate Programming Contest)
      * SCPC 2021 **Finalist**
-     * SCPC 2022 **Finalist**
+     * SCPC 2022 **5등상**
    * other awards
      * 2020 서강대학교 프로그래밍 경진 대회(Sogang Programming Contest; SPC) Champion division　**2nd place**🥈
      * 2020 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2020) Div.2　**1st place**🥇
