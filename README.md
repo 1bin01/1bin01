@@ -1,6 +1,6 @@
  ## 📣 I am
   * 👨‍🎓 majoring in Computer Engineering at Sogang University (20. 3~)
-  * 🪖 serving as an information security specialist in the army(22. 5~ 23. 11)
+  * 🏃 serving as an information security specialist in the army(22. 5~ 23. 11)
   * 🎈 member of Sogang ICPC Team (20. 3~)
   * 🎾 tennis lover
 
