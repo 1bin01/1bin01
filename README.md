@@ -1,8 +1,9 @@
  ## 📣 I am
-  * 👨‍🎓 majoring in Computer Engineering at Sogang University (20. 3~)
-  * 🏃 served as an information security specialist in the army(22. 5~ 23. 11)
-  * 🎈 member of Sogang ICPC Team
-  * 🎾 member of Sogang Tennis club
+  * 👨‍🎓 Majoring in Computer Engineering at Sogang University (20. 3~ present)
+  * 🏃 Served as an information security specialist in the army (22. 5~ 23. 11)
+  * 🕵️‍♀️ Undergraduate researcher in [Advanced Next-generation Semiconductor Lab](https://sites.google.com/view/angelab-sogang/home) (24. 2~ present)
+  * 🎈 Member of Sogang ICPC Team
+  * 🎾 Member of Sogang Tennis club
 
 
 <br>
