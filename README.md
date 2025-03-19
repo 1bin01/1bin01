@@ -14,7 +14,7 @@
    * 2024 현대모비스 알고리즘 경진대회(학생부) **우수상** 🏆
    * 2024 UCPC (전국 대학생 프로그래밍 대회 동아리 연합 대회) **5등상** (Team : Some_Time_Legend)  🏆
    * 2024 ICPC Seoul Regional **18th place** **장려상** (Team : Redshift) 🏆
-   * 2025 ICPC Asia Pacific Championship **46th place** (Team : Redshift) 🏆
+   * 2025 ICPC Asia Pacific Championship **46th place** (Team : Redshift)
    * other awards
      * 2020 서강대학교 프로그래밍 경진 대회(Sogang Programming Contest; SPC) Champion division **2nd place**🥈
      * 2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2021 Summer) **1st place**🥇 
