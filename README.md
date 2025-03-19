@@ -26,4 +26,4 @@
       [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wbcho0504)](https://solved.ac/wbcho0504)
   * ##### codeforces handle : [1bin](https://codeforces.com/profile/1bin), [wonbin0504](https://codeforces.com/profile/wonbin0504)    
       [![CodeForces Profile](http://cf.leed.at?id=1bin)](https://codeforces.com/profile/1bin)
-      [![CodeForces Profile](http://cf.leed.at?id=1bin)](https://codeforces.com/profile/wonbin0504)
+      [![CodeForces Profile](http://cf.leed.at?id=wonbin0504)](https://codeforces.com/profile/wonbin0504)
