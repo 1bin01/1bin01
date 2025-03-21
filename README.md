@@ -1,8 +1,8 @@
  ## 📣 I am
   * 👨‍🎓 Majoring in Computer Engineering at Sogang University (20. 3~ present)
-  * 📓 working as a blockchain developer at the BAY(Blockchain at Yonsei) club (2025.02~ present)
+  * 📓 working as a blockchain developer at the BAY(Blockchain at Yonsei) club (2025. 2~ present)
   * 🏃 Served as an information security specialist in the army (22. 5~ 23. 11)
-  * 🕵️‍♀️ Undergraduate researcher in [Advanced Next-generation Semiconductor Lab](https://sites.google.com/view/angelab-sogang/home) (24. 2~ 25.2)
+  * 🕵️‍♀️ Undergraduate researcher in [Advanced Next-generation Semiconductor Lab](https://sites.google.com/view/angelab-sogang/home) (24. 2~ 25. 2)
   * 🎈 Member of Sogang ICPC Team
   * 🎾 Member of Sogang Tennis club
 
